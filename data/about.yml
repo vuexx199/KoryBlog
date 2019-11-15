@@ -1,0 +1,13 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : We're Creative
+  content : This is in Data>about.yml
+- icon : tf-strategy
+  title : We're Professional
+  content : Also in Data
+- icon : tf-anchor2
+  title : We're Genius
+  content : And still in data

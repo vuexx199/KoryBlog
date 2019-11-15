@@ -1,0 +1,17 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : We’re A Digital Design Agency.
+description : This is in data>about2.yml
+description2 : This is the second paragraph
+aboutItem : 
+  - icon : tf-circle-compass
+    title : SEO Optimized
+    content : More content- I guess the space doesn't matter
+    
+  - icon : tf-hotairballoon
+    title : Easy Customization
+    content : Can add things later
+    
+  - icon : tf-hotairballoon
+    title : More sections to talk about
+    content : The third section of things to say

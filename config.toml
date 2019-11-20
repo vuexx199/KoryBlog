@@ -1,7 +1,7 @@
-baseURL = "https://koryvue.netlify.com/"
+baseURL = "https://measurementandassessmentsolutions.netlify.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Measurement and Assessment Services LLC"
+title = "Measurement & Assessment Services LLC"
 theme = "meghna-hugo"
 summaryLength = 10
 
